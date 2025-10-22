@@ -16,7 +16,6 @@
 const developer = {
     name: "Anas",
     role: "Junior Software Engineer",
-    location: "Your City, Country",
     passions: ["Clean Code", "Problem Solving", "Open Source"],
     currentFocus: "Full-Stack Development",
     lifePhilosophy: "Code. Learn. Repeat. 🔄"
